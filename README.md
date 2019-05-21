@@ -1,6 +1,7 @@
 # SortNebula
-  I took the given example as an already defined array and did the coding. I can make it user friendly by asking user to enter the values too.
-  Explanation to each code:
+I took the given example as an already defined array and did the coding. I can make it user friendly by asking user to enter the values too.
+Explanation to each code:
+
 	1. Cocktail sort: It is a variation of bubble sort in which the sort traverses through the array in both directions alternatively
 	   Each iteration occurs in 2 steps:
 	   1) The first step loops the array from left to right and adjacent items are compared, if the key on the left is greater than the value on the right,
